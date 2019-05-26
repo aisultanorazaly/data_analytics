@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics  
 
 [Exploring 67 years of LEGO](/sample_page)
 <img src="images/lego-bricks.jpeg?raw=true"/>
