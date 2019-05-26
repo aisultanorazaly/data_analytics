@@ -4,7 +4,7 @@
 
 ### Data Analytics  
 
-[Exploring 67 years of LEGO](/notebook.ipynb)
+[Exploring 67 years of LEGO](/notebook.html)
 <img src="images/lego-bricks.jpeg?raw=true"/>
 
 ---
