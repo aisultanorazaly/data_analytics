@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Aisultan Orazaly # your name (or website title) here
+logo: "/images/Aisultan Orazaly.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Master of Science in Project Management. Effective problem-solver with strong analytical and agile skills. Ability to learn quickly, work with clients and look at the project from a comprehensive perspective. Self-motivated and dependable while achieving high performance with minimal supervision. 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/aisultan-orazaly-pm/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
