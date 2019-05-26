@@ -14,7 +14,7 @@ yearly = pd.read_csv('datasets/yearly_deaths_by_clinic.csv')
 print(yearly)
 ```
 
-    year  births  deaths    clinic
+``` year  births  deaths    clinic
 0   1841    3036     237  clinic 1
 1   1842    3287     518  clinic 1
 2   1843    3060     274  clinic 1
@@ -27,7 +27,7 @@ print(yearly)
 9   1844    2956      68  clinic 2
 10  1845    3241      66  clinic 2
 11  1846    3754     105  clinic 2
-
+```
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
