@@ -8,7 +8,7 @@
 <img src="images/lego-bricks.jpeg?raw=true"/>
 
 ---
-[Dr. Semmelweis and the Discovery of Handwashing](/pdf/sample_presentation.pdf)
+[Dr. Semmelweis and the Discovery of Handwashing](/handwashing.ipynb)
 <img src="images/dr semmelweis.jpg?raw=true"/>
 
 
